@@ -1,6 +1,6 @@
 # Tip Calculator
 
-**Developer:** Joshua Alexander Regalado
+**Developer:** Joshua Alexander G. Regalado
 
 ## Description
 
